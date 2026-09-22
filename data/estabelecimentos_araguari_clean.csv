@@ -1,0 +1,241 @@
+id,nome_fantasia,categoria,bairro,endereco,faturamento_mensal_estimado,possui_google,possui_instagram,possui_whatsapp,avaliacao_google,num_avaliacoes_google,n_funcionarios,anos_atividade,indice_visibilidade_digital,latitude,longitude
+1,Doceria Sonho Doce Prime,Alimentação,Amorim,"Rua Hermogênio Veloso, 1261",15518.33,1,1,1,4.7,570,1,21.8,98.5,-18.64141,-48.17915
+2,Lava Jato Estrela Express,Automotivo,Amorim,"Av. Senador Melo Viana, 695",24388.94,0,0,1,0.0,0,4,3.8,20.0,-18.63689,-48.18365
+3,Oficina Do Paulinho Prime,Automotivo,Amorim,"Rua Florestina Quintino, 1831",13775.49,0,1,1,0.0,0,2,11.7,45.0,-18.63953,-48.17215
+4,Studio Nail Art Jr.,Beleza E Estética,Amorim,"Rua Pedro Nasciutti, 2099",17434.62,0,0,1,0.0,0,8,2.0,20.0,-18.63988,-48.18056
+5,Elétrica & Hidráulica Jm Ii,Construção E Reforma,Amorim,"Av. Minas Gerais, 1955",9396.47,0,0,1,0.0,0,10,26.5,20.0,-18.63678,-48.18216
+6,Elétrica & Hidráulica Jm Jr.,Construção E Reforma,Amorim,"Rua Hermogênio Veloso, 1569",10650.11,1,0,1,3.9,264,5,10.9,70.0,-18.63898,-48.17489
+7,Marcenaria Arte Madeira Prime,Construção E Reforma,Amorim,"Av. Coronel Teodolino Pereira de Araújo, 460",3386.08,0,0,1,0.0,0,3,17.4,20.0,-18.64724,-48.17778
+8,Tintas Colorir Express,Construção E Reforma,Amorim,"Rua Rui Barbosa, 1210",41701.35,0,0,1,0.0,0,4,0.7,20.0,-18.63626,-48.17705
+9,Curso Preparatório Aprova Ii,Educação,Amorim,"Av. das Palmeiras, 465",26916.42,1,1,1,4.8,507,2,21.4,98.6,-18.63503,-48.17583
+10,Reforço Escolar Aprender+ Express,Educação,Amorim,"Rua Rui Barbosa, 2023",23297.26,0,0,1,0.0,0,5,7.7,20.0,-18.64125,-48.17966
+11,Assistência Técnica Cell+ Express,Serviços Gerais,Amorim,"Av. Minas Gerais, 81",28105.08,0,0,1,0.0,0,5,8.5,20.0,-18.64311,-48.17731
+12,Assistência Notebook Já Jr.,Tecnologia E Informática,Amorim,"Av. Coronel Teodolino Pereira de Araújo, 2366",15416.57,0,1,1,0.0,0,1,9.1,45.0,-18.6391,-48.17202
+13,Lan House Conecta Prime,Tecnologia E Informática,Amorim,"Rua Marciano Santos, 992",7878.72,1,0,1,4.0,256,2,2.1,70.2,-18.63588,-48.18082
+14,Loja Gamer Level Up,Tecnologia E Informática,Amorim,"Rua Rui Barbosa, 235",14512.99,0,0,1,0.0,0,2,27.6,20.0,-18.63528,-48.17773
+15,Loja Gamer Level Up Ii,Tecnologia E Informática,Amorim,"Rua Hermogênio Veloso, 238",15416.57,0,0,1,0.0,0,2,14.9,20.0,-18.6355,-48.17924
+16,Loja Gamer Level Up Jr.,Tecnologia E Informática,Amorim,"Rua Hermogênio Veloso, 2217",32821.92,1,1,1,4.0,68,2,20.3,93.3,-18.63554,-48.17348
+17,Livraria Saber Jr.,Varejo Diverso,Amorim,"Av. Minas Gerais, 1676",9639.52,1,0,1,4.9,182,1,8.7,72.4,-18.63154,-48.18625
+18,Brechó Retrô Jr.,Vestuário,Amorim,"Av. Minas Gerais, 89",20051.26,0,1,1,0.0,0,10,26.8,45.0,-18.63743,-48.17524
+19,Pão & Prosa Express,Alimentação,Bosque,"Rua Hermogênio Veloso, 1160",20203.72,0,0,1,0.0,0,3,18.6,20.0,-18.64449,-48.17326
+20,Sabor Mineiro,Alimentação,Bosque,"Rua Pedro Nasciutti, 2421",20929.9,1,0,1,4.3,694,2,16.6,72.6,-18.6532,-48.17219
+21,Moto Peças Rosário,Automotivo,Bosque,"Rua Florestina Quintino, 1015",14781.66,1,0,1,3.8,30,1,9.3,66.5,-18.641,-48.17623
+22,Material de Construção Alvorada Prime,Construção E Reforma,Bosque,"Rua Marciano Santos, 2234",16312.13,1,1,0,4.1,101,2,12.2,74.2,-18.64546,-48.17536
+23,Clínica Vida Plena,Saúde,Bosque,"Av. das Palmeiras, 114",1500.0,1,1,1,3.5,745,1,12.8,95.3,-18.64352,-48.17584
+24,Farmácia Popular,Saúde,Bosque,"Av. Coronel Teodolino Pereira de Araújo, 1665",17669.53,0,1,0,0.0,0,4,8.5,25.0,-18.64574,-48.17472
+25,Laboratório Bioanálise Jr.,Saúde,Bosque,"Rua Rui Barbosa, 221",17669.53,0,1,0,0.0,0,2,8.9,25.0,-18.65141,-48.17518
+26,Odonto Sorriso,Saúde,Bosque,"Av. Coronel Teodolino Pereira de Araújo, 1556",25106.03,1,1,1,3.3,469,2,20.4,94.0,-18.64335,-48.17028
+27,Odonto Sorriso Jr.,Saúde,Bosque,"Rua Rui Barbosa, 1600",17669.53,1,1,1,4.3,829,3,24.8,97.9,-18.6483,-48.1694
+28,Lan House Conecta Jr.,Tecnologia E Informática,Bosque,"Av. Minas Gerais, 97",3103.85,1,0,1,4.4,155,10,23.9,70.7,-18.6488,-48.17336
+29,Moda Mineira,Vestuário,Bosque,"Av. das Palmeiras, 1360",29442.89,1,0,1,4.5,674,3,19.0,73.2,-18.65093,-48.18133
+30,Sapataria Central Express,Vestuário,Bosque,"Av. Senador Melo Viana, 623",13933.74,1,1,1,4.1,114,2,2.6,94.3,-18.64311,-48.16795
+31,Sapataria Central Express,Vestuário,Bosque,"Rua Marciano Santos, 1404",15148.14,0,1,1,0.0,0,5,6.8,45.0,-18.64547,-48.16868
+32,Empório Araguari Ii,Alimentação,Centro,"Av. Coronel Teodolino Pereira de Araújo, 2491",20203.72,0,1,1,0.0,0,5,22.5,45.0,-18.64575,-48.18192
+33,Marmitaria Dona Cida,Alimentação,Centro,"Rua Pedro Nasciutti, 1950",21752.52,1,0,1,3.2,208,3,21.4,67.5,-18.64759,-48.17883
+34,Marmitaria Dona Cida Express,Alimentação,Centro,"Rua Marciano Santos, 54",29880.29,0,1,1,0.0,0,6,24.6,45.0,-18.65145,-48.18932
+35,Pastelaria Central Jr.,Alimentação,Centro,"Rua Hermogênio Veloso, 2346",30185.86,1,0,1,4.8,547,3,8.9,73.7,-18.64715,-48.18188
+36,Sabor Mineiro,Alimentação,Centro,"Av. Minas Gerais, 767",14334.23,1,1,1,3.9,674,2,26.1,96.4,-18.64857,-48.19311
+37,Funilaria Ideal,Automotivo,Centro,"Rua Rui Barbosa, 1646",31028.69,0,0,0,0.0,0,2,4.0,0.0,-18.64392,-48.18877
+38,Lava Jato Estrela Express,Automotivo,Centro,"Av. das Palmeiras, 1639",18364.55,1,1,1,4.2,591,1,11.2,97.1,-18.65267,-48.1806
+39,Lava Jato Estrela Express,Automotivo,Centro,"Rua Rui Barbosa, 1332",26842.01,1,0,1,3.3,762,2,12.0,69.7,-18.64293,-48.18627
+40,Lava Jato Estrela Jr.,Automotivo,Centro,"Rua Marciano Santos, 250",22152.9,0,1,1,0.0,0,1,26.7,45.0,-18.65088,-48.18521
+41,Moto Peças Rosário Express,Automotivo,Centro,"Rua Rui Barbosa, 2354",46210.45,1,0,1,4.2,599,3,24.7,72.1,-18.65164,-48.18909
+42,Moto Peças Rosário Ii,Automotivo,Centro,"Av. Minas Gerais, 655",26323.07,1,0,1,3.5,824,3,24.2,70.5,-18.64354,-48.19251
+43,Pneu & Cia Ii,Automotivo,Centro,"Rua Marciano Santos, 1768",16968.94,1,0,1,4.1,30,1,21.4,67.4,-18.64889,-48.18752
+44,Salão Beleza Pura Prime,Beleza E Estética,Centro,"Rua Florestina Quintino, 368",46210.45,1,1,0,3.6,582,2,18.1,75.2,-18.64649,-48.19154
+45,Salão Dona Flor Ii,Beleza E Estética,Centro,"Av. das Palmeiras, 194",7353.18,1,1,1,4.4,305,6,20.5,96.7,-18.65361,-48.19221
+46,Studio Nail Art Prime,Beleza E Estética,Centro,"Rua Pedro Nasciutti, 703",24906.41,0,1,0,0.0,0,1,21.5,25.0,-18.65065,-48.18779
+47,Elétrica & Hidráulica Jm Ii,Construção E Reforma,Centro,"Av. Minas Gerais, 2408",30114.38,1,1,1,0.0,0,8,24.0,75.0,-18.64463,-48.18878
+48,Elétrica & Hidráulica Jm Jr.,Construção E Reforma,Centro,"Rua Rui Barbosa, 1280",5120.19,1,0,1,4.0,683,8,19.7,71.7,-18.64708,-48.18914
+49,Marcenaria Arte Madeira,Construção E Reforma,Centro,"Rua Rui Barbosa, 204",9083.13,1,0,1,4.2,572,6,25.0,72.0,-18.64554,-48.19116
+50,Marcenaria Arte Madeira,Construção E Reforma,Centro,"Rua Hermogênio Veloso, 635",16312.13,1,1,1,4.8,325,3,7.7,98.0,-18.64249,-48.18544
+51,Marcenaria Arte Madeira Express,Construção E Reforma,Centro,"Av. Senador Melo Viana, 2335",30783.11,1,0,1,4.4,627,4,19.5,72.7,-18.64505,-48.18185
+52,Marcenaria Arte Madeira Ii,Construção E Reforma,Centro,"Av. Senador Melo Viana, 2467",28055.58,1,0,1,4.7,635,4,8.9,73.7,-18.64988,-48.18595
+53,Marcenaria Arte Madeira Jr.,Construção E Reforma,Centro,"Rua Hermogênio Veloso, 1950",1500.0,1,1,1,4.6,674,2,25.9,98.5,-18.64294,-48.19177
+54,Marcenaria Arte Madeira Prime,Construção E Reforma,Centro,"Rua Pedro Nasciutti, 1869",13396.71,0,0,1,0.0,0,4,9.0,20.0,-18.64851,-48.18319
+55,Tintas Colorir Express,Construção E Reforma,Centro,"Rua Hermogênio Veloso, 1861",24184.71,1,0,1,4.0,596,3,18.6,71.5,-18.64976,-48.19091
+56,Tintas Colorir Ii,Construção E Reforma,Centro,"Rua Pedro Nasciutti, 1084",5598.24,0,0,1,0.0,0,10,27.7,20.0,-18.64627,-48.18942
+57,Curso Preparatório Aprova Prime,Educação,Centro,"Av. Minas Gerais, 2494",1500.0,0,1,1,0.0,0,3,13.7,45.0,-18.64986,-48.18627
+58,Curso Preparatório Aprova Prime,Educação,Centro,"Rua Pedro Nasciutti, 221",27321.78,1,1,1,4.9,40,3,13.5,95.2,-18.64958,-48.19298
+59,Escola de Música Ritmo Ii,Educação,Centro,"Rua Florestina Quintino, 2315",22058.47,0,1,1,0.0,0,3,18.7,45.0,-18.65273,-48.18563
+60,Reforço Escolar Aprender+ Ii,Educação,Centro,"Av. Minas Gerais, 1213",17698.78,1,0,1,3.9,682,10,18.5,71.4,-18.64029,-48.19334
+61,Reforço Escolar Aprender+ Ii,Educação,Centro,"Rua Hermogênio Veloso, 2301",23297.26,1,1,1,3.3,772,2,5.9,94.8,-18.64116,-48.18465
+62,Clínica Vida Plena Jr.,Saúde,Centro,"Rua Pedro Nasciutti, 740",29553.15,1,0,1,3.5,652,2,4.1,70.1,-18.64707,-48.19207
+63,Farmácia Popular Prime,Saúde,Centro,"Av. Minas Gerais, 492",2492.08,0,1,1,0.0,0,2,12.0,45.0,-18.64604,-48.18467
+64,Fisio + Saúde Jr.,Saúde,Centro,"Rua Florestina Quintino, 536",22289.64,1,0,1,4.6,461,8,11.8,72.9,-18.64934,-48.19148
+65,Laboratório Bioanálise,Saúde,Centro,"Av. Coronel Teodolino Pereira de Araújo, 554",13567.33,0,0,1,0.0,0,6,22.3,20.0,-18.64742,-48.18013
+66,Psicóloga Ana Ribeiro Prime,Saúde,Centro,"Rua Pedro Nasciutti, 1172",37314.08,1,1,0,3.3,36,2,25.9,70.3,-18.64347,-48.18566
+67,Chaveiro 24H Ii,Serviços Gerais,Centro,"Av. Senador Melo Viana, 562",28673.69,1,0,1,4.9,25,2,4.6,69.5,-18.64796,-48.18589
+68,Chaveiro 24H Jr.,Serviços Gerais,Centro,"Rua Florestina Quintino, 150",20112.96,1,0,1,4.0,698,2,23.4,71.7,-18.64837,-48.18761
+69,Chaveiro 24H Prime,Serviços Gerais,Centro,"Rua Hermogênio Veloso, 324",10253.84,1,0,1,4.4,386,2,21.0,72.0,-18.64684,-48.18629
+70,Lavanderia Limpa Tudo Jr.,Serviços Gerais,Centro,"Av. das Palmeiras, 423",27258.24,1,1,0,3.9,315,2,4.1,75.2,-18.64258,-48.18476
+71,Lavanderia Limpa Tudo Prime,Serviços Gerais,Centro,"Rua Rui Barbosa, 1968",10507.81,1,1,0,4.9,305,2,20.4,78.2,-18.64512,-48.18826
+72,Pet Shop Amigo Fiel Express,Serviços Gerais,Centro,"Av. Senador Melo Viana, 516",17855.37,1,0,1,4.0,110,4,21.9,69.0,-18.64131,-48.19747
+73,Assistência Notebook Já Ii,Tecnologia E Informática,Centro,"Av. Senador Melo Viana, 711",9379.3,1,0,1,0.0,0,1,3.6,50.0,-18.64722,-48.18785
+74,Assistência Notebook Já Jr.,Tecnologia E Informática,Centro,"Rua Florestina Quintino, 1258",1500.0,1,1,1,4.5,666,3,24.0,98.1,-18.64684,-48.18462
+75,Loja Gamer Level Up Express,Tecnologia E Informática,Centro,"Av. Coronel Teodolino Pereira de Araújo, 2419",34344.95,1,0,1,4.7,497,8,18.6,73.3,-18.64891,-48.18861
+76,Bazar Central Jr.,Varejo Diverso,Centro,"Rua Hermogênio Veloso, 840",15638.83,1,0,1,5.0,810,3,7.4,74.9,-18.65009,-48.18593
+77,Presentes & Cia Express,Varejo Diverso,Centro,"Rua Hermogênio Veloso, 129",32193.94,0,1,0,0.0,0,2,2.4,25.0,-18.64982,-48.18542
+78,Utilidades Lar Doce Lar,Varejo Diverso,Centro,"Rua Marciano Santos, 1606",14586.26,0,1,1,0.0,0,1,17.5,45.0,-18.64876,-48.19271
+79,Utilidades Lar Doce Lar Ii,Varejo Diverso,Centro,"Rua Marciano Santos, 594",19609.63,1,0,0,4.8,389,3,11.3,53.2,-18.64244,-48.18615
+80,Utilidades Lar Doce Lar Jr.,Varejo Diverso,Centro,"Rua Hermogênio Veloso, 793",26954.85,1,1,1,3.5,275,8,23.3,93.8,-18.64626,-48.18612
+81,Utilidades Lar Doce Lar Prime,Varejo Diverso,Centro,"Rua Hermogênio Veloso, 2366",13538.27,1,1,1,3.7,284,3,3.6,94.5,-18.65637,-48.18598
+82,Brechó Retrô Jr.,Vestuário,Centro,"Rua Rui Barbosa, 1659",38580.48,0,0,1,0.0,0,8,1.8,20.0,-18.64782,-48.18998
+83,Loja Estilo Jovem,Vestuário,Centro,"Rua Rui Barbosa, 890",5427.0,0,1,1,0.0,0,1,27.2,45.0,-18.64587,-48.1873
+84,Loja Estilo Jovem Express,Vestuário,Centro,"Rua Marciano Santos, 2043",15109.14,0,1,1,0.0,0,3,20.7,45.0,-18.64528,-48.19418
+85,Moda Mineira,Vestuário,Centro,"Rua Hermogênio Veloso, 176",22318.94,1,1,1,4.2,98,8,4.8,94.4,-18.64079,-48.18816
+86,Moda Mineira Express,Vestuário,Centro,"Rua Hermogênio Veloso, 1580",1500.0,1,1,0,4.3,227,2,23.2,75.9,-18.63863,-48.18883
+87,Sapataria Central,Vestuário,Centro,"Rua Marciano Santos, 1070",15891.76,0,1,1,0.0,0,10,18.9,45.0,-18.63713,-48.17969
+88,Sapataria Central Express,Vestuário,Centro,"Rua Marciano Santos, 1685",13857.92,0,1,1,0.0,0,3,21.5,45.0,-18.64727,-48.19061
+89,Sapataria Central Jr.,Vestuário,Centro,"Rua Hermogênio Veloso, 2437",8934.26,1,0,1,4.3,730,3,8.4,72.7,-18.65353,-48.1813
+90,Sapataria Central Prime,Vestuário,Centro,"Rua Marciano Santos, 739",8737.64,0,0,1,0.0,0,5,26.7,20.0,-18.65066,-48.18333
+91,Oficina Do Paulinho Ii,Automotivo,Goiás,"Rua Hermogênio Veloso, 341",19467.7,1,0,1,0.0,0,2,15.5,50.0,-18.65616,-48.1731
+92,Barbearia Corte Fino Express,Beleza E Estética,Goiás,"Rua Florestina Quintino, 1907",9145.06,1,1,1,4.6,641,8,4.1,98.4,-18.65436,-48.17264
+93,Tintas Colorir Jr.,Construção E Reforma,Goiás,"Rua Hermogênio Veloso, 1937",12857.59,0,0,1,0.0,0,3,13.9,20.0,-18.64502,-48.17324
+94,Infotech Araguari Ii,Tecnologia E Informática,Goiás,"Rua Hermogênio Veloso, 1267",3214.45,0,0,1,0.0,0,3,2.2,20.0,-18.6477,-48.17838
+95,Cantina Do Zé,Alimentação,Independência,"Rua Marciano Santos, 1105",12275.9,0,1,1,0.0,0,2,27.0,45.0,-18.65246,-48.19589
+96,Churrascaria Boi Na Brasa Jr.,Alimentação,Independência,"Rua Pedro Nasciutti, 2227",7573.17,0,1,1,0.0,0,4,16.2,45.0,-18.65032,-48.192
+97,Lava Jato Estrela Express,Automotivo,Independência,"Rua Florestina Quintino, 964",4073.43,1,0,1,4.5,578,5,20.7,72.9,-18.65054,-48.19347
+98,Oficina Do Paulinho Express,Automotivo,Independência,"Rua Hermogênio Veloso, 867",17317.58,1,1,1,3.5,372,5,27.4,94.3,-18.65728,-48.19174
+99,Pneu & Cia Ii,Automotivo,Independência,"Av. Senador Melo Viana, 1440",31785.38,0,1,1,0.0,0,2,3.6,45.0,-18.65287,-48.19354
+100,Salão Dona Flor Jr.,Beleza E Estética,Independência,"Rua Pedro Nasciutti, 1568",11107.83,0,0,1,0.0,0,3,0.9,20.0,-18.65129,-48.19318
+101,Elétrica & Hidráulica Jm,Construção E Reforma,Independência,"Av. Coronel Teodolino Pereira de Araújo, 1209",10816.19,0,0,1,0.0,0,3,18.6,20.0,-18.65886,-48.1979
+102,Elétrica & Hidráulica Jm,Construção E Reforma,Independência,"Rua Hermogênio Veloso, 1048",33895.48,0,0,1,0.0,0,3,14.5,20.0,-18.65614,-48.19426
+103,Curso Preparatório Aprova Ii,Educação,Independência,"Rua Pedro Nasciutti, 213",3286.72,0,1,1,0.0,0,2,11.1,45.0,-18.65448,-48.19107
+104,Escola de Música Ritmo Express,Educação,Independência,"Av. Minas Gerais, 1298",23209.99,0,0,0,0.0,0,6,14.3,0.0,-18.66083,-48.19628
+105,Clínica Vida Plena Prime,Saúde,Independência,"Av. Coronel Teodolino Pereira de Araújo, 816",7331.27,1,0,1,4.9,180,6,26.7,72.4,-18.64772,-48.19208
+106,Fisio + Saúde Express,Saúde,Independência,"Av. das Palmeiras, 1642",17669.53,1,0,1,0.0,0,2,16.4,50.0,-18.65547,-48.19386
+107,Odonto Sorriso Express,Saúde,Independência,"Rua Florestina Quintino, 497",15350.13,0,1,1,0.0,0,3,5.3,45.0,-18.65149,-48.1952
+108,Chaveiro 24H,Serviços Gerais,Independência,"Rua Hermogênio Veloso, 1517",10130.13,0,0,0,0.0,0,8,23.2,0.0,-18.6628,-48.20021
+109,Lavanderia Limpa Tudo,Serviços Gerais,Independência,"Av. Minas Gerais, 1472",32058.43,0,1,1,0.0,0,2,9.9,45.0,-18.65157,-48.19163
+110,Livraria Saber,Varejo Diverso,Independência,"Av. Minas Gerais, 2323",5642.89,1,0,1,4.3,399,8,18.6,71.8,-18.65073,-48.19633
+111,Boutique Elegance Express,Vestuário,Independência,"Rua Rui Barbosa, 600",24825.41,0,1,1,0.0,0,3,8.0,45.0,-18.6601,-48.19953
+112,Boutique Elegance Jr.,Vestuário,Independência,"Rua Hermogênio Veloso, 1065",29515.07,0,1,1,0.0,0,3,12.0,45.0,-18.65851,-48.19634
+113,Brechó Retrô,Vestuário,Independência,"Av. Senador Melo Viana, 206",9401.58,1,0,1,3.4,270,6,12.5,68.5,-18.65614,-48.19421
+114,Confecções Amorim Jr.,Vestuário,Independência,"Rua Florestina Quintino, 2358",16180.13,1,1,1,4.9,160,1,26.6,97.2,-18.65805,-48.19945
+115,Moda Mineira Jr.,Vestuário,Independência,"Rua Florestina Quintino, 1545",26851.42,1,1,0,3.5,437,3,4.1,74.5,-18.65157,-48.19577
+116,Cantina Do Zé Ii,Alimentação,Jóquei Clube,"Rua Pedro Nasciutti, 340",20203.72,1,1,1,4.1,721,2,13.4,97.1,-18.62912,-48.17756
+117,Lava Jato Estrela Jr.,Automotivo,Jóquei Clube,"Av. Minas Gerais, 374",19329.16,0,0,1,0.0,0,3,15.0,20.0,-18.62767,-48.17607
+118,Studio Nail Art Express,Beleza E Estética,Jóquei Clube,"Rua Rui Barbosa, 179",16016.7,0,1,1,0.0,0,10,2.0,45.0,-18.62817,-48.18565
+119,Elétrica & Hidráulica Jm,Construção E Reforma,Jóquei Clube,"Av. das Palmeiras, 2373",16312.13,0,1,1,0.0,0,6,10.7,45.0,-18.63182,-48.1879
+120,Material de Construção Alvorada,Construção E Reforma,Jóquei Clube,"Rua Marciano Santos, 775",13245.18,0,0,1,0.0,0,2,18.1,20.0,-18.63143,-48.18005
+121,Curso Preparatório Aprova,Educação,Jóquei Clube,"Av. Senador Melo Viana, 168",26654.84,0,0,1,0.0,0,1,5.5,20.0,-18.63025,-48.18721
+122,Escola de Idiomas Fala Mundo Express,Educação,Jóquei Clube,"Av. Coronel Teodolino Pereira de Araújo, 366",28613.15,0,1,1,0.0,0,3,23.5,45.0,-18.63853,-48.18193
+123,Escola de Idiomas Fala Mundo Prime,Educação,Jóquei Clube,"Rua Florestina Quintino, 474",21090.55,1,0,0,4.8,55,4,23.8,50.4,-18.63188,-48.18295
+124,Laboratório Bioanálise Jr.,Saúde,Jóquei Clube,"Av. das Palmeiras, 2120",17669.53,0,0,0,0.0,0,1,1.9,0.0,-18.63101,-48.18239
+125,Chaveiro 24H Express,Serviços Gerais,Jóquei Clube,"Rua Hermogênio Veloso, 1954",27428.0,0,0,1,0.0,0,4,23.3,20.0,-18.63373,-48.18382
+126,Chaveiro 24H Express,Serviços Gerais,Jóquei Clube,"Av. Coronel Teodolino Pereira de Araújo, 2166",3919.63,1,1,1,4.1,589,1,24.7,96.8,-18.62478,-48.18212
+127,Contabilidade Prática,Serviços Gerais,Jóquei Clube,"Av. Senador Melo Viana, 885",29426.72,0,1,1,0.0,0,10,3.3,45.0,-18.62808,-48.18121
+128,Contabilidade Prática Ii,Serviços Gerais,Jóquei Clube,"Av. das Palmeiras, 1545",13881.83,1,1,1,4.9,803,3,5.4,99.6,-18.62874,-48.18633
+129,Contabilidade Prática Jr.,Serviços Gerais,Jóquei Clube,"Rua Florestina Quintino, 1286",14668.31,1,1,1,3.7,244,2,10.4,94.3,-18.62813,-48.18644
+130,Assistência Notebook Já Express,Tecnologia E Informática,Jóquei Clube,"Av. Coronel Teodolino Pereira de Araújo, 1753",11459.84,0,0,0,0.0,0,4,24.8,0.0,-18.62666,-48.18157
+131,Presentes & Cia Express,Varejo Diverso,Jóquei Clube,"Av. Minas Gerais, 1128",9152.46,0,1,1,0.0,0,5,16.0,45.0,-18.63164,-48.17857
+132,Confecções Amorim Ii,Vestuário,Jóquei Clube,"Rua Florestina Quintino, 215",10259.95,0,1,0,0.0,0,5,10.7,25.0,-18.62696,-48.18208
+133,Confecções Amorim Jr.,Vestuário,Jóquei Clube,"Rua Marciano Santos, 223",28408.12,0,1,1,0.0,0,10,25.2,45.0,-18.62719,-48.18245
+134,Acarajé Da Leninha Express,Alimentação,Miranda,"Rua Pedro Nasciutti, 2166",23991.72,0,1,1,0.0,0,3,22.7,45.0,-18.66147,-48.17863
+135,Marmitaria Dona Cida Prime,Alimentação,Miranda,"Av. Coronel Teodolino Pereira de Araújo, 224",30957.37,0,1,0,0.0,0,3,7.6,25.0,-18.66061,-48.17847
+136,Lava Jato Estrela Prime,Automotivo,Miranda,"Rua Hermogênio Veloso, 1612",11567.32,1,0,1,3.7,705,3,15.2,70.8,-18.65957,-48.17476
+137,Salão Beleza Pura Ii,Beleza E Estética,Miranda,"Av. Minas Gerais, 1670",26642.62,1,1,1,4.3,203,6,12.6,95.8,-18.65824,-48.1779
+138,Salão Dona Flor Express,Beleza E Estética,Miranda,"Av. das Palmeiras, 1520",17287.25,0,1,1,0.0,0,3,9.3,45.0,-18.65963,-48.18335
+139,Salão Dona Flor Jr.,Beleza E Estética,Miranda,"Rua Rui Barbosa, 1915",26884.33,0,1,1,0.0,0,8,14.1,45.0,-18.65971,-48.17834
+140,Material de Construção Alvorada Prime,Construção E Reforma,Miranda,"Rua Pedro Nasciutti, 1911",17780.67,0,0,1,0.0,0,10,3.6,20.0,-18.6667,-48.18195
+141,Curso Preparatório Aprova Jr.,Educação,Miranda,"Rua Hermogênio Veloso, 1882",23384.53,0,1,1,0.0,0,5,16.9,45.0,-18.65654,-48.18131
+142,Escola de Idiomas Fala Mundo Jr.,Educação,Miranda,"Rua Pedro Nasciutti, 2093",33478.97,1,0,1,4.8,278,5,6.2,72.7,-18.65148,-48.18515
+143,Laboratório Bioanálise Express,Saúde,Miranda,"Rua Marciano Santos, 1694",8628.24,0,0,1,0.0,0,10,26.2,20.0,-18.66072,-48.17921
+144,Odonto Sorriso Prime,Saúde,Miranda,"Rua Rui Barbosa, 1498",18189.9,1,0,0,0.0,0,4,24.3,30.0,-18.662,-48.18474
+145,Contabilidade Prática Prime,Serviços Gerais,Miranda,"Rua Marciano Santos, 160",16512.84,0,0,1,0.0,0,8,4.2,20.0,-18.66439,-48.17265
+146,Bazar Central Express,Varejo Diverso,Miranda,"Rua Marciano Santos, 1044",31398.89,0,0,1,0.0,0,3,7.9,20.0,-18.66095,-48.17929
+147,Bazar Central Ii,Varejo Diverso,Miranda,"Av. Senador Melo Viana, 357",15638.83,1,0,1,3.9,705,10,22.8,71.4,-18.66271,-48.177
+148,Utilidades Lar Doce Lar Express,Varejo Diverso,Miranda,"Rua Rui Barbosa, 510",16125.37,0,1,1,0.0,0,4,9.3,45.0,-18.66262,-48.17829
+149,Brechó Retrô Jr.,Vestuário,Miranda,"Rua Pedro Nasciutti, 665",16180.13,0,1,1,0.0,0,2,18.7,45.0,-18.65679,-48.17312
+150,Loja Estilo Jovem,Vestuário,Miranda,"Rua Florestina Quintino, 1555",14560.44,1,0,1,3.6,94,3,18.1,67.6,-18.65574,-48.17937
+151,Moda Mineira Ii,Vestuário,Miranda,"Av. Coronel Teodolino Pereira de Araújo, 1979",1500.0,0,1,0,0.0,0,1,7.7,25.0,-18.65309,-48.18395
+152,Marmitaria Dona Cida Express,Alimentação,Novo Horizonte,"Rua Hermogênio Veloso, 547",20203.72,0,1,1,0.0,0,5,15.6,45.0,-18.63582,-48.20301
+153,Marmitaria Dona Cida Jr.,Alimentação,Novo Horizonte,"Av. das Palmeiras, 1546",21019.2,1,0,1,4.5,595,5,10.8,73.0,-18.63375,-48.19165
+154,Pão & Prosa,Alimentação,Novo Horizonte,"Rua Marciano Santos, 451",20203.72,1,1,1,3.7,258,2,26.0,94.3,-18.63479,-48.195
+155,Auto Center Araguari Ii,Automotivo,Novo Horizonte,"Rua Rui Barbosa, 1901",20699.13,1,1,1,4.5,490,2,14.8,97.7,-18.63472,-48.19436
+156,Escola de Idiomas Fala Mundo Jr.,Educação,Novo Horizonte,"Av. Coronel Teodolino Pereira de Araújo, 1482",33480.87,0,0,0,0.0,0,5,15.9,0.0,-18.63365,-48.18937
+157,Escola de Música Ritmo Express,Educação,Novo Horizonte,"Av. Minas Gerais, 558",14666.5,0,0,1,0.0,0,6,26.2,20.0,-18.63058,-48.19885
+158,Assistência Técnica Cell+ Express,Serviços Gerais,Novo Horizonte,"Rua Pedro Nasciutti, 976",11151.73,1,1,1,4.7,198,2,11.0,96.9,-18.6272,-48.18669
+159,Assistência Notebook Já Ii,Tecnologia E Informática,Novo Horizonte,"Av. Coronel Teodolino Pereira de Araújo, 1228",15416.57,1,0,1,4.6,90,10,13.5,70.5,-18.63738,-48.20092
+160,Assistência Notebook Já Jr.,Tecnologia E Informática,Novo Horizonte,"Rua Rui Barbosa, 2483",30291.05,1,1,1,4.0,61,1,12.9,93.1,-18.63326,-48.1965
+161,Assistência Notebook Já Prime,Tecnologia E Informática,Novo Horizonte,"Rua Hermogênio Veloso, 2196",23894.14,1,0,1,4.1,179,5,11.2,70.0,-18.63395,-48.19479
+162,Infotech Araguari Ii,Tecnologia E Informática,Novo Horizonte,"Rua Florestina Quintino, 1990",28941.48,1,0,1,4.1,515,6,26.1,71.6,-18.63216,-48.19183
+163,Infotech Araguari Jr.,Tecnologia E Informática,Novo Horizonte,"Rua Marciano Santos, 2237",23410.41,0,0,1,0.0,0,3,24.1,20.0,-18.63374,-48.19018
+164,Loja Gamer Level Up Express,Tecnologia E Informática,Novo Horizonte,"Av. Coronel Teodolino Pereira de Araújo, 488",46210.45,0,1,1,0.0,0,4,17.5,45.0,-18.63497,-48.18461
+165,Livraria Saber Jr.,Varejo Diverso,Novo Horizonte,"Av. Minas Gerais, 2430",46210.45,1,0,1,3.7,125,2,7.3,68.3,-18.63234,-48.19539
+166,Papelaria Horizonte,Varejo Diverso,Novo Horizonte,"Rua Marciano Santos, 1381",9931.52,1,0,1,3.8,154,10,14.4,68.9,-18.63435,-48.19266
+167,Brechó Retrô Ii,Vestuário,Novo Horizonte,"Av. Minas Gerais, 1378",12758.09,0,0,1,0.0,0,8,4.5,20.0,-18.63671,-48.19437
+168,Confecções Amorim,Vestuário,Novo Horizonte,"Rua Marciano Santos, 663",18096.44,0,1,1,0.0,0,2,6.1,45.0,-18.6378,-48.19905
+169,Sapataria Central Express,Vestuário,Novo Horizonte,"Rua Marciano Santos, 799",1500.0,0,1,1,0.0,0,4,10.3,45.0,-18.632,-48.19124
+170,Churrascaria Boi Na Brasa Prime,Alimentação,Ouro Verde,"Rua Pedro Nasciutti, 686",12648.98,1,1,1,3.5,88,2,19.2,92.2,-18.63938,-48.20359
+171,Doceria Sonho Doce Jr.,Alimentação,Ouro Verde,"Av. Senador Melo Viana, 1855",20203.72,1,0,1,3.4,102,5,9.5,67.1,-18.64063,-48.20914
+172,Moto Peças Rosário,Automotivo,Ouro Verde,"Av. Senador Melo Viana, 598",19498.92,1,0,1,3.5,404,6,14.3,69.4,-18.63201,-48.19334
+173,Moto Peças Rosário Jr.,Automotivo,Ouro Verde,"Rua Rui Barbosa, 2110",8883.37,1,0,1,3.2,182,3,22.9,67.3,-18.6384,-48.20862
+174,Pneu & Cia,Automotivo,Ouro Verde,"Av. Coronel Teodolino Pereira de Araújo, 1176",31240.14,1,0,1,3.3,702,3,17.5,69.6,-18.64054,-48.2105
+175,Pneu & Cia,Automotivo,Ouro Verde,"Rua Rui Barbosa, 447",3624.11,0,0,1,0.0,0,10,24.3,20.0,-18.63669,-48.20619
+176,Espaço Zen Estética Prime,Beleza E Estética,Ouro Verde,"Rua Hermogênio Veloso, 2004",27207.41,1,1,1,3.4,296,5,16.9,93.6,-18.63149,-48.20829
+177,Marcenaria Arte Madeira Express,Construção E Reforma,Ouro Verde,"Rua Marciano Santos, 565",40743.49,1,1,0,3.4,500,5,15.0,74.4,-18.64297,-48.20829
+178,Escola de Música Ritmo Jr.,Educação,Ouro Verde,"Rua Marciano Santos, 1517",25704.16,0,1,1,0.0,0,10,7.8,45.0,-18.64205,-48.20826
+179,Clínica Vida Plena,Saúde,Ouro Verde,"Av. Senador Melo Viana, 1698",33676.02,0,0,0,0.0,0,10,2.7,0.0,-18.64052,-48.2036
+180,Odonto Sorriso,Saúde,Ouro Verde,"Av. das Palmeiras, 2264",46210.45,0,1,1,0.0,0,2,14.3,45.0,-18.63861,-48.20663
+181,Livraria Saber Jr.,Varejo Diverso,Ouro Verde,"Rua Pedro Nasciutti, 616",23494.17,0,0,1,0.0,0,6,15.7,20.0,-18.64245,-48.20556
+182,Presentes & Cia Express,Varejo Diverso,Ouro Verde,"Rua Marciano Santos, 1766",24284.39,1,0,1,4.2,400,2,3.2,71.5,-18.63604,-48.20971
+183,Contabilidade Prática Jr.,Serviços Gerais,Paraíso,"Av. Minas Gerais, 2349",11083.83,1,0,1,4.3,383,2,18.0,71.7,-18.64328,-48.18269
+184,Utilidades Lar Doce Lar Jr.,Varejo Diverso,Paraíso,"Rua Florestina Quintino, 1083",13091.5,1,0,1,3.9,781,3,23.2,71.6,-18.64905,-48.19343
+185,Empório Araguari Prime,Alimentação,Portal de Fátima,"Av. Coronel Teodolino Pereira de Araújo, 1977",40666.36,0,0,1,0.0,0,3,12.5,20.0,-18.66385,-48.20736
+186,Salão Beleza Pura Jr.,Beleza E Estética,Portal de Fátima,"Av. Coronel Teodolino Pereira de Araújo, 513",21530.47,0,1,1,0.0,0,2,11.9,45.0,-18.66092,-48.20762
+187,Tintas Colorir Ii,Construção E Reforma,Portal de Fátima,"Rua Florestina Quintino, 2311",16312.13,0,1,1,0.0,0,10,23.3,45.0,-18.65653,-48.20161
+188,Farmácia Popular Ii,Saúde,Portal de Fátima,"Rua Hermogênio Veloso, 961",38095.24,0,1,1,0.0,0,4,6.6,45.0,-18.66503,-48.20369
+189,Odonto Sorriso Express,Saúde,Portal de Fátima,"Rua Hermogênio Veloso, 1463",18407.38,0,0,1,0.0,0,6,24.4,20.0,-18.65828,-48.19959
+190,Loja Gamer Level Up Express,Tecnologia E Informática,Portal de Fátima,"Rua Marciano Santos, 1274",19245.26,0,0,1,0.0,0,3,17.9,20.0,-18.65429,-48.20742
+191,Loja Gamer Level Up Ii,Tecnologia E Informática,Portal de Fátima,"Rua Hermogênio Veloso, 543",16892.38,1,0,1,4.1,406,1,0.8,71.2,-18.65719,-48.20162
+192,Doceria Sonho Doce Prime,Alimentação,Rosário,"Av. Minas Gerais, 717",3500.41,0,1,1,0.0,0,2,6.7,45.0,-18.64729,-48.18799
+193,Sabor Mineiro Express,Alimentação,Rosário,"Rua Florestina Quintino, 2415",22905.25,0,1,0,0.0,0,3,27.6,25.0,-18.64669,-48.18607
+194,Funilaria Ideal Ii,Automotivo,Rosário,"Av. Senador Melo Viana, 2326",19329.16,1,0,1,3.8,267,8,13.9,69.7,-18.64678,-48.18205
+195,Funilaria Ideal Ii,Automotivo,Rosário,"Av. Coronel Teodolino Pereira de Araújo, 96",29478.39,0,1,1,0.0,0,5,5.1,45.0,-18.64252,-48.19132
+196,Moto Peças Rosário Jr.,Automotivo,Rosário,"Rua Hermogênio Veloso, 1126",7093.81,1,1,1,4.4,256,2,21.8,96.4,-18.64028,-48.17786
+197,Espaço Zen Estética,Beleza E Estética,Rosário,"Av. das Palmeiras, 2034",12324.08,1,0,1,0.0,0,1,14.7,50.0,-18.63568,-48.18336
+198,Marcenaria Arte Madeira Ii,Construção E Reforma,Rosário,"Rua Hermogênio Veloso, 461",17992.33,0,1,1,0.0,0,3,11.7,45.0,-18.64107,-48.18391
+199,Marcenaria Arte Madeira Ii,Construção E Reforma,Rosário,"Rua Rui Barbosa, 350",17877.42,0,0,0,0.0,0,6,24.7,0.0,-18.63038,-48.18869
+200,Marcenaria Arte Madeira Jr.,Construção E Reforma,Rosário,"Av. das Palmeiras, 2198",41916.43,0,0,1,0.0,0,5,10.9,20.0,-18.63571,-48.18246
+201,Material de Construção Alvorada Prime,Construção E Reforma,Rosário,"Av. Senador Melo Viana, 1686",15463.56,0,1,1,0.0,0,4,14.7,45.0,-18.65059,-48.18465
+202,Curso Preparatório Aprova Jr.,Educação,Rosário,"Rua Hermogênio Veloso, 1745",7463.18,0,0,0,0.0,0,2,7.4,0.0,-18.64127,-48.1889
+203,Farmácia Popular Prime,Saúde,Rosário,"Rua Rui Barbosa, 1691",5506.18,1,1,1,4.9,261,1,4.7,98.0,-18.63865,-48.18761
+204,Assistência Técnica Cell+ Prime,Serviços Gerais,Rosário,"Rua Pedro Nasciutti, 251",15195.17,1,0,1,0.0,0,6,23.0,50.0,-18.6425,-48.17807
+205,Infotech Araguari,Tecnologia E Informática,Rosário,"Rua Pedro Nasciutti, 725",16255.79,0,0,1,0.0,0,4,20.5,20.0,-18.64174,-48.17949
+206,Lan House Conecta Prime,Tecnologia E Informática,Rosário,"Av. das Palmeiras, 1268",7107.82,0,1,0,0.0,0,8,13.8,25.0,-18.63764,-48.17869
+207,Loja Gamer Level Up Express,Tecnologia E Informática,Rosário,"Rua Rui Barbosa, 1106",15416.57,0,0,1,0.0,0,6,11.8,20.0,-18.64903,-48.18987
+208,Loja Gamer Level Up Jr.,Tecnologia E Informática,Rosário,"Av. Senador Melo Viana, 139",11017.74,0,1,1,0.0,0,3,24.3,45.0,-18.64082,-48.18549
+209,Presentes & Cia Jr.,Varejo Diverso,Rosário,"Rua Hermogênio Veloso, 116",1500.0,0,0,1,0.0,0,1,27.8,20.0,-18.64875,-48.18979
+210,Presentes & Cia Prime,Varejo Diverso,Rosário,"Av. Senador Melo Viana, 373",41941.25,1,0,1,4.7,794,10,6.4,74.0,-18.63511,-48.18472
+211,Brechó Retrô,Vestuário,Rosário,"Rua Rui Barbosa, 2488",19477.33,0,1,0,0.0,0,2,22.0,25.0,-18.64317,-48.17625
+212,Loja Estilo Jovem Prime,Vestuário,Rosário,"Av. Minas Gerais, 966",20916.07,0,1,0,0.0,0,8,25.1,25.0,-18.64537,-48.18888
+213,Moda Mineira Ii,Vestuário,Rosário,"Rua Marciano Santos, 2137",25183.77,0,0,1,0.0,0,1,22.1,20.0,-18.64351,-48.1788
+214,Sapataria Central Prime,Vestuário,Rosário,"Rua Rui Barbosa, 845",30247.47,0,1,1,0.0,0,1,20.0,45.0,-18.64345,-48.18553
+215,Acarajé Da Leninha Ii,Alimentação,Santa Helena,"Rua Rui Barbosa, 720",19477.55,0,1,1,0.0,0,5,16.3,45.0,-18.66471,-48.19212
+216,Acarajé Da Leninha Jr.,Alimentação,Santa Helena,"Rua Hermogênio Veloso, 1554",2544.48,1,1,1,4.5,398,2,20.5,97.4,-18.66909,-48.18928
+217,Oficina Do Paulinho Jr.,Automotivo,Santa Helena,"Av. das Palmeiras, 56",19743.09,1,0,1,4.3,591,2,18.9,72.4,-18.65858,-48.19183
+218,Pneu & Cia Ii,Automotivo,Santa Helena,"Av. Minas Gerais, 1312",1500.0,0,0,1,0.0,0,2,5.7,20.0,-18.66563,-48.19016
+219,Marcenaria Arte Madeira,Construção E Reforma,Santa Helena,"Av. Senador Melo Viana, 2129",46210.45,0,0,1,0.0,0,3,15.3,20.0,-18.67088,-48.19406
+220,Reforço Escolar Aprender+ Ii,Educação,Santa Helena,"Av. Senador Melo Viana, 73",15329.7,0,1,1,0.0,0,6,16.9,45.0,-18.67297,-48.19519
+221,Psicóloga Ana Ribeiro,Saúde,Santa Helena,"Rua Marciano Santos, 1994",10171.56,0,0,1,0.0,0,2,11.4,20.0,-18.66947,-48.19183
+222,Boutique Elegance Express,Vestuário,Santa Helena,"Rua Hermogênio Veloso, 2203",7643.06,0,1,1,0.0,0,2,3.9,45.0,-18.6659,-48.18903
+223,Lava Jato Estrela Ii,Automotivo,Sibipiruna,"Av. Senador Melo Viana, 1373",19190.61,0,1,1,0.0,0,3,3.9,45.0,-18.63989,-48.19185
+224,Marcenaria Arte Madeira Express,Construção E Reforma,Sibipiruna,"Rua Hermogênio Veloso, 660",16991.13,1,0,1,0.0,0,2,25.4,50.0,-18.64293,-48.19358
+225,Material de Construção Alvorada Ii,Construção E Reforma,Sibipiruna,"Rua Florestina Quintino, 1063",10396.79,0,0,1,0.0,0,3,17.9,20.0,-18.64479,-48.19027
+226,Material de Construção Alvorada Prime,Construção E Reforma,Sibipiruna,"Rua Florestina Quintino, 1037",35583.7,1,0,1,3.9,768,3,20.7,71.5,-18.63265,-48.19476
+227,Pão & Prosa Prime,Alimentação,São Sebastião,"Av. das Palmeiras, 884",8165.46,1,1,1,4.7,436,3,10.7,98.1,-18.65134,-48.1948
+228,Moto Peças Rosário Jr.,Automotivo,São Sebastião,"Rua Hermogênio Veloso, 928",18514.37,0,1,1,0.0,0,4,3.9,45.0,-18.64664,-48.20691
+229,Tintas Colorir Ii,Construção E Reforma,São Sebastião,"Rua Pedro Nasciutti, 1730",14696.38,0,1,1,0.0,0,1,19.9,45.0,-18.64511,-48.20062
+230,Tintas Colorir Prime,Construção E Reforma,São Sebastião,"Rua Pedro Nasciutti, 1174",1500.0,1,0,1,4.7,286,5,9.7,72.5,-18.64651,-48.19911
+231,Escola de Idiomas Fala Mundo,Educação,São Sebastião,"Rua Rui Barbosa, 750",41994.24,1,0,1,3.8,689,8,7.9,71.1,-18.65673,-48.20134
+232,Fisio + Saúde,Saúde,São Sebastião,"Rua Rui Barbosa, 265",1500.0,1,0,1,3.8,381,2,8.0,70.2,-18.64973,-48.20279
+233,Infotech Araguari Ii,Tecnologia E Informática,São Sebastião,"Rua Rui Barbosa, 2011",14523.42,0,1,0,0.0,0,3,9.3,25.0,-18.64953,-48.19913
+234,Bazar Central Prime,Varejo Diverso,São Sebastião,"Rua Pedro Nasciutti, 1504",15638.83,0,0,1,0.0,0,6,27.1,20.0,-18.65095,-48.20107
+235,Presentes & Cia,Varejo Diverso,São Sebastião,"Av. Senador Melo Viana, 827",10219.1,0,1,0,0.0,0,2,18.1,25.0,-18.65351,-48.20038
+236,Utilidades Lar Doce Lar Jr.,Varejo Diverso,São Sebastião,"Rua Marciano Santos, 1232",15638.83,0,1,1,0.0,0,3,8.2,45.0,-18.65636,-48.20829
+237,Boutique Elegance Express,Vestuário,São Sebastião,"Av. Coronel Teodolino Pereira de Araújo, 2078",19355.08,0,0,1,0.0,0,6,24.4,20.0,-18.64687,-48.20076
+238,Loja Estilo Jovem Jr.,Vestuário,São Sebastião,"Av. Coronel Teodolino Pereira de Araújo, 2356",22566.13,0,1,1,0.0,0,3,14.0,45.0,-18.64752,-48.20136
+239,Sapataria Central Prime,Vestuário,São Sebastião,"Av. Coronel Teodolino Pereira de Araújo, 736",20627.61,0,0,0,0.0,0,2,2.7,0.0,-18.64648,-48.19689
+240,Material de Construção Alvorada Prime,Construção E Reforma,Vieno,"Rua Pedro Nasciutti, 328",28784.12,0,0,1,0.0,0,10,10.8,20.0,-18.65089,-48.18016

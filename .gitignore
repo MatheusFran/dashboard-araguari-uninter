@@ -1,0 +1,16 @@
+# Python / Streamlit
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Dados locais gerados por feedback (mantém header, ignora conteúdo sensível? aqui mantemos)
+# data/feedbacks.csv  -> versionado propositalmente vazio para a banca ver o formato
+
+# SO
+.DS_Store
+Thumbs.db

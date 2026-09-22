@@ -1,0 +1,14 @@
+# Configuração visual — tema de alto contraste (acessibilidade / Desenho Universal #4)
+[theme]
+primaryColor = "#0B5CAB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F4F8"
+textColor = "#1A1A1A"
+font = "sans serif"
+
+[server]
+headless = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
