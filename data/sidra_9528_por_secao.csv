@@ -1,0 +1,43 @@
+secao_codigo,secao_cnae,variavel,valor,ano
+116830,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",Número de unidades locais,145,2024
+116880,B Indústrias extrativas,Número de unidades locais,38,2024
+116910,C Indústrias de transformação,Número de unidades locais,453,2024
+117296,D Eletricidade e gás,Número de unidades locais,14,2024
+117307,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",Número de unidades locais,29,2024
+117329,F Construção,Número de unidades locais,333,2024
+117363,G Comércio; reparação de veículos automotores e motocicletas,Número de unidades locais,2022,2024
+117484,"H Transporte, armazenagem e correio",Número de unidades locais,398,2024
+117543,I Alojamento e alimentação,Número de unidades locais,305,2024
+117555,J Informação e comunicação,Número de unidades locais,141,2024
+117608,"K Atividades financeiras, de seguros e serviços relacionados",Número de unidades locais,153,2024
+117666,L Atividades imobiliárias,Número de unidades locais,135,2024
+117673,"M Atividades profissionais, científicas e técnicas",Número de unidades locais,459,2024
+117714,N Atividades administrativas e serviços complementares,Número de unidades locais,480,2024
+117774,"O Administração pública, defesa e seguridade social",Número de unidades locais,47,2024
+117788,P Educação,Número de unidades locais,211,2024
+117810,Q Saúde humana e serviços sociais,Número de unidades locais,523,2024
+117838,"R Artes, cultura, esporte e recreação",Número de unidades locais,96,2024
+117861,S Outras atividades de serviços,Número de unidades locais,418,2024
+117888,T Serviços domésticos,Número de unidades locais,-,2024
+117892,U Organismos internacionais e outras instituições extraterritoriais,Número de unidades locais,-,2024
+116830,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",Pessoal ocupado total,481,2024
+116880,B Indústrias extrativas,Pessoal ocupado total,115,2024
+116910,C Indústrias de transformação,Pessoal ocupado total,6058,2024
+117296,D Eletricidade e gás,Pessoal ocupado total,26,2024
+117307,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",Pessoal ocupado total,245,2024
+117329,F Construção,Pessoal ocupado total,1624,2024
+117363,G Comércio; reparação de veículos automotores e motocicletas,Pessoal ocupado total,8580,2024
+117484,"H Transporte, armazenagem e correio",Pessoal ocupado total,2425,2024
+117543,I Alojamento e alimentação,Pessoal ocupado total,1145,2024
+117555,J Informação e comunicação,Pessoal ocupado total,324,2024
+117608,"K Atividades financeiras, de seguros e serviços relacionados",Pessoal ocupado total,850,2024
+117666,L Atividades imobiliárias,Pessoal ocupado total,330,2024
+117673,"M Atividades profissionais, científicas e técnicas",Pessoal ocupado total,1439,2024
+117714,N Atividades administrativas e serviços complementares,Pessoal ocupado total,2575,2024
+117774,"O Administração pública, defesa e seguridade social",Pessoal ocupado total,3445,2024
+117788,P Educação,Pessoal ocupado total,1596,2024
+117810,Q Saúde humana e serviços sociais,Pessoal ocupado total,3328,2024
+117838,"R Artes, cultura, esporte e recreação",Pessoal ocupado total,452,2024
+117861,S Outras atividades de serviços,Pessoal ocupado total,959,2024
+117888,T Serviços domésticos,Pessoal ocupado total,-,2024
+117892,U Organismos internacionais e outras instituições extraterritoriais,Pessoal ocupado total,-,2024

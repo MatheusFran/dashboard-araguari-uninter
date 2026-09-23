@@ -1,88 +1,61 @@
-# 🏪 Dashboard Comercial de Araguari/MG — Densidade de Mercado e Visibilidade Digital
+# 🏪 Dashboard Comercial de Araguari/MG — 100% dados reais e públicos
 
 **Atividade Extensionista II — UNINTER | Tecnologia em Ciência de Dados**
-Alinhado aos **ODS 8** (Trabalho Decente e Crescimento Econômico) e **ODS 9** (Indústria, Inovação e Infraestrutura).
+**ODS 8** (Trabalho Decente e Crescimento Econômico) e **ODS 9** (Inovação e Infraestrutura).
 
-Painel interativo em **Streamlit + Pandas + Matplotlib** que mapeia pequenos estabelecimentos de Araguari/MG por bairro e categoria, estima faturamento e mede a **visibilidade digital** (Google, Instagram, WhatsApp + avaliações).
+> **Nenhum dado foi inventado, estimado ou simulado.** Todo número vem de coleta automatizada
+> (`python src/coleta_dados.py`) de fontes públicas, com auditoria em `data/proveniencia.json`.
 
-## 📁 Estrutura do projeto
+## 📚 Fontes reais
+
+| Fonte | O que fornece | Acesso |
+|---|---|---|
+| OpenStreetMap (Overpass + Nominatim, ODbL) | Estabelecimentos com nome, categoria, coordenadas, bairro e tags de contato dentro do município (filtro no polígono oficial, relação OSM 314597) | API + geocodificação reversa (1 req/s) |
+| IBGE/SIDRA CEMPRE 2024 (tabelas 9509 e 9528) | Unidades locais, empresas, pessoal ocupado, salários — total e por seção CNAE | API de Agregados v3 |
+| Wikipédia (CC BY-SA) | Contexto municipal (população, área, PIB, IDH) via webscraping da infobox com BeautifulSoup | HTML público |
+
+**Limitação declarada:** não existe base pública de faturamento por estabelecimento (sigilo fiscal);
+por isso o painel usa pessoal ocupado e salários do CEMPRE como indicadores oficiais (ODS 8).
+
+## 📁 Estrutura
 
 ```
-uninter/
-├── app.py                              # Aplicativo principal (arquivo único executável)
-├── requirements.txt                    # Dependências
-├── README.md                           # Este guia
-├── .streamlit/config.toml              # Tema de alto contraste (acessibilidade)
-├── data/
-│   ├── estabelecimentos_araguari_raw.csv    # Dados brutos (com sujeiras propositais)
-│   ├── estabelecimentos_araguari_clean.csv  # Dados limpos (gerado pelo ETL)
-│   └── feedbacks.csv                   # Validação comunitária (gerado pelo app)
-└── src/
-    ├── gerar_dados.py                  # Gera dados sintéticos realistas de Araguari/MG
-    └── limpeza_tratamento.py           # Pipeline ETL + índice de visibilidade digital
+├── app.py                          # dashboard (streamlit run app.py)
+├── requirements.txt
+├── src/
+│   ├── coleta_dados.py             # coleta real: OSM + SIDRA + Nominatim + Wikipédia
+│   └── limpeza_tratamento.py       # ETL: limpa e padroniza (não inventa nada)
+└── data/
+    ├── osm_pois_araguari.json      # POIs brutos (coletados)
+    ├── estabelecimentos_araguari_clean.csv  # POIs limpos
+    ├── sidra_9509_totais.csv       # CEMPRE: totais do município
+    ├── sidra_9528_por_secao.csv    # CEMPRE: por seção CNAE
+    ├── municipio_wikipedia.json    # infobox da Wikipédia
+    ├── municipio_contorno.json     # polígono do município
+    ├── proveniencia.json           # auditoria: fonte, URL, acesso, licença
+    └── feedbacks.csv               # validação comunitária (via app)
 ```
 
-## 🚀 Guia de instalação e execução (Windows, macOS ou Linux)
-
-**1. Pré-requisito:** Python 3.10+ instalado. Confira:
+## 🚀 Instalação e execução
 
 ```bash
-python --version
-```
-
-**2. (Recomendado) Criar ambiente virtual:**
-
-```bash
+python --version            # Python 3.10+
 python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-```
-
-**3. Instalar dependências (pandas, streamlit, matplotlib):**
-
-```bash
+# Windows: .venv\Scripts\activate | Linux/macOS: source .venv/bin/activate
 pip install -r requirements.txt
+python src/coleta_dados.py         # ~3 min: baixa dados reais
+python src/limpeza_tratamento.py   # limpa e padroniza
+streamlit run app.py               # abre em http://localhost:8501
 ```
-
-**4. (Opcional) Regenerar os dados:**
-
-```bash
-python src/gerar_dados.py
-python src/limpeza_tratamento.py
-```
-
-> O `app.py` já funciona direto com os CSVs incluídos. O passo 4 só é necessário se quiser regenerar a massa de dados.
-
-**5. Executar o dashboard:**
-
-```bash
-streamlit run app.py
-```
-
-Acesse no navegador o endereço exibido (geralmente http://localhost:8501).
 
 ## ✨ Funcionalidades
 
-- **KPIs:** total mapeado, faturamento médio, visibilidade digital média, % com Google, empregos estimados.
-- **Filtros laterais:** bairro (Centro, Rosário, Independência etc.), categoria (Alimentação, Automotivo, Saúde, Vestuário etc.), busca textual, faixa de faturamento e visibilidade mínima.
-- **Gráficos:** barras interativas (`st.bar_chart`) + Matplotlib com rótulos de valor; mapa com `st.map`.
-- **Tabela dinâmica + download CSV** da seleção filtrada.
-- **Feedback comunitário:** formulário (nome, bairro, 1–5 estrelas, comentário) salvo em `data/feedbacks.csv`, com média e lista pública.
-- **Aba ODS 8 e 9** com leitura extensionista e recomendações.
-
-## 🧹 Tratamento de dados (resumo do ETL)
-
-1. Remove duplicatas; 2. padroniza caixa/espaços; 3. normaliza "Sim/Não/S/N" → 0/1;
-4. converte "R$ 12.500,00" → float; 5. imputa faturamento pela mediana da categoria;
-6. winsoriza outliers (IQR); 7. calcula o **índice de visibilidade digital (0–100)**:
-`Google×30 + Instagram×25 + WhatsApp×20 + nota×15 + volume×10`.
+- **KPIs reais:** pontos OSM, unidades locais, pessoal ocupado e salário médio (CEMPRE 2024), % com telefone/site.
+- **Filtros:** bairro (Centro, Independência, Goiás...), categoria (etiqueta OSM traduzida), busca textual, presença digital mínima.
+- **Gráficos** interativos + Matplotlib, **mapa real** (lat/lon OSM), tabela com etiqueta original p/ auditoria + download CSV.
+- **Aba Fontes e método** com proveniência, método reprodutível e limitações declaradas.
+- **Feedback comunitário** (nome, bairro, 1–5 ⭐, comentário) em `data/feedbacks.csv`.
 
 ## ♿ Acessibilidade (Desenho Universal)
 
-Tema de alto contraste, fonte ≥11pt nos gráficos, rótulos de valor além da cor, textos de ajuda em todos os filtros, tratamento de estado vazio com orientação, layout responsivo e botão "Limpar filtros" em 1 clique.
-
-## 📝 Créditos
-
-Projeto acadêmico — dados simulados e realistas para fins educacionais. Município: Araguari/MG (IBGE 3103504, ~-18.6472, -48.1872).
+Alto contraste, rótulos de valor nos gráficos, ajuda nos filtros, aviso orientado em filtro vazio, layout responsivo.

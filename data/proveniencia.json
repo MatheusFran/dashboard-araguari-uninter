@@ -1,0 +1,50 @@
+[
+  {
+    "fonte": "IBGE/SIDRA",
+    "descricao": "CEMPRE tabela 9509 — totais de Araguari/MG (2024)",
+    "url": "https://apisidra.ibge.gov.br/values/t/9509/n6/3103504/p/last/v/allxp",
+    "licenca": "Dados públicos IBGE (uso livre com citação da fonte)",
+    "acesso_em_utc": "2026-09-23 00:28 UTC",
+    "n_registros": 8
+  },
+  {
+    "fonte": "IBGE/SIDRA",
+    "descricao": "CEMPRE tabela 9528 — unidades locais e pessoal por seção CNAE, Araguari/MG",
+    "url": "https://apisidra.ibge.gov.br/values/t/9528/n6/3103504/p/last/v/706,707/c12762/116830,116880,116910,117296,117307,117329,117363,117484,117543,117555,117608,117666,117673,117714,117774,117788,117810,117838,117861,117888,117892",
+    "licenca": "Dados públicos IBGE (uso livre com citação da fonte)",
+    "acesso_em_utc": "2026-09-23 00:28 UTC",
+    "n_registros": null
+  },
+  {
+    "fonte": "OpenStreetMap/Nominatim",
+    "descricao": "Contorno do município (relação OSM 314597)",
+    "url": "https://nominatim.openstreetmap.org/lookup?osm_ids=R314597&format=json&polygon_geojson=1",
+    "licenca": "ODbL (© contribuidores OpenStreetMap)",
+    "acesso_em_utc": "2026-09-23 00:28 UTC",
+    "n_registros": 1
+  },
+  {
+    "fonte": "OpenStreetMap/Overpass",
+    "descricao": "Estabelecimentos comerciais georreferenciados dentro de Araguari/MG (com nome)",
+    "url": "https://overpass-api.de/api/interpreter (query shop/amenity/craft/office no bbox + filtro no polígono)",
+    "licenca": "ODbL (© contribuidores OpenStreetMap)",
+    "acesso_em_utc": "2026-09-23 00:28 UTC",
+    "n_registros": 88
+  },
+  {
+    "fonte": "OpenStreetMap/Nominatim (reverse)",
+    "descricao": "Bairro dos POIs sem addr:suburb (geocodificação reversa das coordenadas)",
+    "url": "https://nominatim.openstreetmap.org/reverse",
+    "licenca": "ODbL (© contribuidores OpenStreetMap)",
+    "acesso_em_utc": "2026-09-23 00:30 UTC",
+    "n_registros": 86
+  },
+  {
+    "fonte": "Wikipédia (webscraping HTML com BeautifulSoup)",
+    "descricao": "Infobox do verbete Araguari (população, área, fundação etc.)",
+    "url": "https://pt.wikipedia.org/wiki/Araguari",
+    "licenca": "CC BY-SA (texto da Wikipédia)",
+    "acesso_em_utc": "2026-09-23 00:30 UTC",
+    "n_registros": 20
+  }
+]
