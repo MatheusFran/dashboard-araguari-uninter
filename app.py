@@ -296,8 +296,10 @@ with aba2:
         vis_media=("indice_visibilidade_digital", "mean"),
         empregos=("n_funcionarios", "sum"),
     ).sort_values("n", ascending=False).round(2)
-    st.dataframe(dens, use_container_width=True,
-                 help="Tabela dinâmica: ordene clicando no cabeçalho.")
+    # NOTA: `st.dataframe` não aceita `help=` nas versões recentes do Streamlit,
+    # por isso a orientação vai em `st.caption` logo acima (mesmo efeito p/ usabilidade).
+    st.caption("Tabela dinâmica: ordene clicando no cabeçalho.")
+    st.dataframe(dens, use_container_width=True)
 
     st.markdown("**Mapa dos estabelecimentos filtrados** (pontos por bairro, com jitter anti-sobreposição)")
     if {"latitude", "longitude"}.issubset(df_f.columns):
